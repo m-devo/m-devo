@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=m-devo&color=yellow)<br>
 - 🔭 I’m currently working on developing my skills
 - 💬 Ask me about JavaScript, TypeScript
-- Goals:  Become an expert in web developing
+- Goals:  Become an expert in web Development
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m-ahmed22/)
 <br />
