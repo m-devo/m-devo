@@ -1,10 +1,13 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions
+
 name: Generate Snake
 
 on:
+  # This will run the action every 12 hours
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
+  
+  # This allows you to run the action manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -12,20 +15,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checks out the repository so the action can write to it
+      # Updated to v4 for better performance and security
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
+      # Generates the snake animation SVG file
+      # Updated to v3 to fix the error you are seeing
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
+          # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
+          
+          # A list of files to generate
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      # Pushes the generated files to the 'output' branch
+      # Updated to v4
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
