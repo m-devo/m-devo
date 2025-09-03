@@ -1,53 +1,88 @@
-### <p align="center">Hi there 👋, I'm Mohamed Ahmed</p> 
----
-#### <p align="center"> Full-Stack Web Developer :smirk:</p>
+<h1 align="center">✨ Hi there 👋, I'm <span style="color:#f39c12;">Mohamed Ahmed</span> ✨</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | DevOps Enthusiast 🐧🐳</h3>
 
-
-![](https://komarev.com/ghpvc/?username=m-devo&color=yellow)<br>
-- 🔭 I’m currently working on developing my skills
-- 💬 Ask me about JavaScript, TypeScript
-- Goals:  Become an expert in web Development
-### Connect with me
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m-ahmed22/)
-<br />
-<br />
---
-### Technology Stack:
-<p>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=f39c12&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Linux+%26+Docker+Lover;Clean+Code+Advocate;Always+Learning+New+Tech;Let's+Build+Something+Awesome!" alt="Typing SVG Animation" />
 </p>
 
-### :zap: GitHub Stats
+---
 
-<center>
-  <table>
+### 🔥 About Me
+- 🔭 Currently improving my **Full-Stack & DevOps skills**
+- 🐧 Comfortable with **Linux systems**
+- 🐳 Learning & using **Docker** in projects
+- 💬 Ask me about: **JavaScript, TypeScript, Node.js**
+- 🎯 Goal: Become an **Expert Web Developer & Problem Solver**
+- ⚡ Fun fact: Tea 🍵 + Code 💻 = Happiness 😎
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <table align="center">
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=m-devo&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=m-devo&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>   
+      <td align="center">
+        <a href="https://www.linkedin.com/in/m-ahmed22/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:mohamed.dev@example.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/m-devo" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        </a>
+      </td>
+    </tr>
   </table>
-</center>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/m-ahmed22/
-<!--
-**m-devo/m-devo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bootstrap,sass,git,postman,photoshop,linux,docker" alt="My Tech Stack" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=m-devo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-devo&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-devo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🐍 Fun Animation
+<p align="center">
+  <img src="https://github.com/m-devo/m-devo/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+⭐️ From [m-devo](https://github.com/m-devo)
