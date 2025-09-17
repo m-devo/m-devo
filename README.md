@@ -49,7 +49,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/> -->
   <img src="https://github-readme-stats-pi-nine.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-pi-nine.vercel.app/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-pi-nine.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 ---
