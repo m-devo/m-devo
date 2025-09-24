@@ -39,7 +39,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bootstrap,sass,git,postman,photoshop,linux,docker" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bootstrap,sass,git,postman,photoshop,linux,docker,firebase,tailwind,mysql,mongodb" 
+       alt="My Tech Stack" />
 </p>
 
 ---
