@@ -2,8 +2,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | DevOps Enthusiast 🐧🐳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=f39c12&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;
-    PHP+%26+Laravel;Angular+%26+React;Linux+%26+Docker+Lover;Clean+Code+Advocate" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=f39c12&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Linux+%26+Docker+Lover;Clean+Code+Advocate;Always+Learning+New+Tech;Let's+Build+Something+Awesome!" alt="Typing SVG Animation" />
 </p>
 
 
