@@ -3,7 +3,7 @@
 name: Generate Snake
 
 on:
-  # This will run the action every 12 hours
+  # This will run the action every sunday hours
   schedule:
     - cron: "0 0 * * 0"
   
