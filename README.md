@@ -48,10 +48,10 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
 </p>
+
 
 ---
 
