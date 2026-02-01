@@ -46,12 +46,11 @@
 
 ---
 
-### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-devo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-devo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-devo&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-devo&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-devo&theme=tokyonight" alt="Most Commit Language" />
 </p>
-
 
 ---
 
